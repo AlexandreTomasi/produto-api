@@ -2,6 +2,7 @@
 Video de uso de uma distribuidora: [https://youtu.be/ZmHmlF7Gi0Q](https://youtu.be/ZmHmlF7Gi0Q)  
 ### Resumo
 Esse sistema foi criado para fornecer um chatboot no messenger para empresas de vendas de produtos no geral.  
+Para criar chatboot no messenger foi utilizado o chatfuel [https://chatfuel.com/](https://chatfuel.com/)
 Esse sistema possui os seguintes cadastros:  
 Clientes, forma de pagamento, taxas de entrega, horario de atendimento, configurações gerais, dados cadastrais.  
 [https://github.com/AlexandreTomasi/produto-api/blob/master/image/menu.JPG](https://github.com/AlexandreTomasi/produto-api/blob/master/image/menu.JPG)  
